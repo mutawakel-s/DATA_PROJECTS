@@ -5,5 +5,5 @@ I have worked as a BI Developer for this project which uses Power BI, Dax, MS SQ
 
 ![Sample Graph](https://github.com/mutawakel-s/Sales-BI-Project/blob/main/Home%20Page.png)
 
-@ * Following is a screenshot of the Sales BI Dashboard:
+# * Following is a screenshot of the Sales BI Dashboard:
 ![Sample Graph](https://github.com/mutawakel-s/Sales-BI-Project/blob/main/Amazon%20Sales%20Report.png)

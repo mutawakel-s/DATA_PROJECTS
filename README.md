@@ -1,2 +1,6 @@
 # Sales BI Project
-This repository contains the sample of data projects that I have developed for several organizations.
+I have worked as a BI Developer for this project which uses Power BI, Dax, MS SQL Server tools to develop a BI system that analyze a company sales data and extract many data insights that can help to measure the performance of sales and identify the recommended actions to improve sales.
+
+# Following is a screenshot of the system home page with a button to access Amazon Sales dashboard:
+
+![Sample Graph](https://github.com/mutawakel-s/Sales-BI-Project/blob/main/Home%20Page.png)
